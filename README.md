@@ -1,16 +1,15 @@
-### Hi there 👋
+Azure Preparation
 
-<!--
-**quinncamp7/quinncamp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We will create our Subscription and Resources, then go over Failed Authentication and Log Observation, and finally
 
-Here are some ideas to get you started:
+Azure Active Directory Overview (Users, Groups, and Access Management)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Environments and Technologies Used
+
+Microsoft Azure
+SQL Server
+Event Viewer
+Operating Systems Used
+
+VM Windows 10 PRO (21H2)
+Resources & SQL Server Vulnerabilties
