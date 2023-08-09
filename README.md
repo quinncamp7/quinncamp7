@@ -2,7 +2,7 @@
 
 <h1>Information Security Analyst Projects</h1>
 
-<b> Configuring my own cloud-based SOC environment within Azure. This is a demonstration that will set up Azure Pre-Requisite Installation, SQL, Failed Authentication, Active Directory, Logging and Monitoring, Microsoft Sentinel SIEM, and Secure Cloud Configuration.<b/>
+<b> Configuring my own cloud-based SOC environment within Azure. This is a demonstration that will Secure Cloud Configuration.<b/>
 
 ---
 
