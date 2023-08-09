@@ -6,10 +6,7 @@
 
 ---
 
-- <b>[Azure Pre-Requisite Installation, SQL, Failed Authentication, Active Directory](https://github.com/fnabeel/Cloud-SOC-PreReq)<b>
-- <b>[Logging and Monitoring](https://github.com/fnabeel/Logging-and-Monitoring)<b>
-
-
+- <b>[Secure Cloud Configuration](https://github.com/fnabeel/Secure-Cloud-Configuration)<b>
 ----
 
 If you have any questions, feel free to connect over on LinkedIn and ask anything ! 
