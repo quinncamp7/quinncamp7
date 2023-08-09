@@ -6,11 +6,9 @@
 
 ---
 
-- <b>[Azure Pre-Requisite Installation, SQL, Failed Authentication, Active Directory](website)<b>
-- <b>[Logging and Monitoring](website)<b>
-- <b>[Microsoft Sentinel SIEM](website)<b>
-- <b>[Secure Cloud Configuration](website)<b>
-- <b>[Comprehensive Summary](website)<b>
+- <b>[Azure Pre-Requisite Installation, SQL, Failed Authentication, Active Directory](https://github.com/fnabeel/Cloud-SOC-PreReq)<b>
+- <b>[Logging and Monitoring](https://github.com/fnabeel/Logging-and-Monitoring)<b>
+
 
 ----
 
